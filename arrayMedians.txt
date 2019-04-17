@@ -1,0 +1,9 @@
+#median of two sorted arrays
+
+#merge sort algo
+def mergeSort(list):
+	if len(list) <= 1:
+		return m
+	left = []
+	right = []
+	
